@@ -1,0 +1,13 @@
+.sample-root {
+  position: absolute;
+}
+
+.sample-ul {
+  list-style: none;
+  text-decoration: none;
+  padding: 0.73em;
+}
+
+.sample-li {
+  padding: 0.73em;
+}
